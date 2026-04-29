@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+- Bumped default Antigravity `User-Agent` version to `1.23.2` in the `antigravity-image-gen.ts` example extension.
+
 ## [0.70.6] - 2026-04-28
 
 ### New Features
