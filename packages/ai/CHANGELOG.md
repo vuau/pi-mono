@@ -5,6 +5,7 @@
 ### Fixed
 
 - Bumped default Antigravity `User-Agent` version to `1.23.2`.
+- Fixed DeepSeek prompt cache hits to be tracked from `prompt_cache_hit_tokens` in OpenAI-compatible usage responses ([#3880](https://github.com/badlogic/pi-mono/issues/3880)).
 
 ## [0.70.6] - 2026-04-28
 
